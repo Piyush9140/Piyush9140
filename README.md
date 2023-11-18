@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/piyush_a919" target="blank"><img src="https://img.shields.io/twitter/follow/piyush_a919?logo=twitter&style=for-the-badge" alt="piyush_a919" /></a> </p>
 
-- 🔭 I’m currently working on **AR Indoor Navigation**
+- 🔭 I’m currently working on **Android applications**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React native**
 
-- 💬 Ask me about **AR,C#,C++,SparkAR,Flutter**
+- 💬 Ask me about **AR,C#,C++,SparkAR,React Native**
 
 - 📫 How to reach me **agarwalpiyush9450@gmail,com**
 - [![An image of @piyush9140's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyush9140)](https://holopin.io/@piyush9140)
